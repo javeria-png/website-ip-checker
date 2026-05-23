@@ -2,7 +2,7 @@
 
 # 🌐 Website IP Address Checker - Python
 
-This is my **second Python project!** A simple tool that finds the IP address of any website.
+A simple tool that finds the IP address of any website.
 
 ## Features
 - 🔍 Find IP address of any website
