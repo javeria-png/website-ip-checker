@@ -27,7 +27,5 @@ IP Address: 140.82.121.4
 - No extra libraries needed
 
 ## Author
-**Javeria** (GitHub: @javeria-png) — Second GitHub Project 🚀
-
----
-Made with ❤️ while learning Python
+**Javeria** (GitHub: @javeria-png)
+javeria.stack@gmail.com
